@@ -5,7 +5,7 @@
     "local_uri": "mysql+mysqlconnector://root:@localhost/askarpit",
     "prod_uri": "mysql+mysqlconnector://root:@localhost/askarpit",
     "my_gmail": "arpitbittu143@gmail.com",
-    "my_gmail_pass": "Arpit2702@gmail",
+    "my_gmail_pass": "************",
     "number_of_post": 3,
     "login_image":"login_img.svg",
     "admin_email": "admin@gmail.com",
